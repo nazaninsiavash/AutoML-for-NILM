@@ -38,3 +38,30 @@ This project builds upon the following repositories:
 - [NILMTK-Contrib](https://github.com/nilmtk/nilmtk-contrib)
 
 We gratefully acknowledge their contributions and codebases.
+
+
+## Paper
+
+This repository supports the following paper:
+
+> **N. Siavash and A. Moin, “A Bayesian Optimization-Based AutoML Framework for Non-Intrusive Load Monitoring,”**  
+> *arXiv preprint arXiv:2602.05739*, 2026.
+
+### Citation
+
+```bibtex
+@article{SiavashMoin2026,
+  title   = {A Bayesian Optimization-Based AutoML Framework for Non-Intrusive Load Monitoring},
+  author  = {Siavash, Nazanin and Moin, Armin},
+  journal = {arXiv preprint arXiv:2602.05739},
+  year    = {2026}
+}
+````
+
+---
+
+## Keywords
+
+Non-intrusive load monitoring, NILM, automated machine learning, AutoML, Bayesian optimization, energy disaggregation, machine learning, smart meters, energy consumption, and time-series analysis.
+
+
