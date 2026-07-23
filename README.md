@@ -29,16 +29,6 @@ This project has been tested with the UK-DALE dataset but is designed to be easi
 
 The AutoML framework currently supports 11 machine learning algorithms for NILM (Non-Intrusive Load Monitoring). Thanks to its flexible and modular design, the framework can be further enhanced to support more algorithms, models, or datasets in the future.
 
-## Acknowledgements
-
-This project builds upon the following repositories:
-
-- [autonialm](https://github.com/ukritw/autonialm)
-- [NILMTK](https://github.com/nilmtk/nilmtk)
-- [NILMTK-Contrib](https://github.com/nilmtk/nilmtk-contrib)
-
-We gratefully acknowledge their contributions and codebases.
-
 
 ## Paper
 
@@ -63,5 +53,17 @@ This repository supports the following paper:
 ## Keywords
 
 Non-intrusive load monitoring, NILM, automated machine learning, AutoML, Bayesian optimization, energy disaggregation, machine learning, smart meters, energy consumption, and time-series analysis.
+
+## Acknowledgements
+
+This project builds upon the following repositories:
+
+- [autonialm](https://github.com/ukritw/autonialm)
+- [NILMTK](https://github.com/nilmtk/nilmtk)
+- [NILMTK-Contrib](https://github.com/nilmtk/nilmtk-contrib)
+
+We gratefully acknowledge their contributions and codebases.
+
+
 
 
